@@ -9,3 +9,6 @@ The data contains real world information about cars and the goal is to predict t
 In the notebook Car_price.ipynb I attempt to show not only the solution I came up with but also the line of reasoning that brought me there.
 The final presented prediction was as good as the best 10% in the previously mentioned Kaggle competition (It was closed before I started working on it, so I do not appear in the leaderboard, but I could still post predictions and check my score)
 https://www.kaggle.com/c/carprice/leaderboard
+
+
+![Alt text](pic.png?raw=true "Car_price")
